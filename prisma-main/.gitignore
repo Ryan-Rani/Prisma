@@ -1,0 +1,32 @@
+.DS_Store
+backend/data/
+.ipynb_checkpoints/
+
+# Generated reports and images
+analysis/reports/
+analysis/report_images/
+analysis/llm_prompt.txt
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
